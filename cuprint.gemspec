@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.authors = ["Reuben Doetsch"]
   s.date = %q{2009-10-20}
   s.default_executable = %q{cuprint}
-  s.description = %q{TODO: longer description of your gem}
+  s.description = %q{A gem to automate adding Columbia Printers}
   s.email = %q{reuben.doetsch@gmail.com}
   s.executables = ["cuprint"]
   s.extra_rdoc_files = [
@@ -25,7 +25,10 @@ Gem::Specification.new do |s|
      "README.rdoc",
      "Rakefile",
      "VERSION",
+     "bin/cuprint",
+     "cuprint.gemspec",
      "lib/cuprint.rb",
+     "lib/printers.yaml",
      "test/cuprint_test.rb",
      "test/test_helper.rb"
   ]

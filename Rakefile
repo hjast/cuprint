@@ -6,7 +6,7 @@ begin
   Jeweler::Tasks.new do |gem|
     gem.name = "cuprint"
     gem.summary = %Q{Oh so perfect}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.description = %Q{A gem to automate adding Columbia Printers}
     gem.email = "reuben.doetsch@gmail.com"
     gem.homepage = "http://github.com/hjast/cuprint"
     gem.authors = ["Reuben Doetsch"]
