@@ -1,0 +1,284 @@
+printers:
+  - name: 'broadway304a'
+    address: broadway304a-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Residence Halls
+  - name: butler209a
+    address: butler209a-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Butler
+  - name: butler209b
+    address: butler209b-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Butler
+  - name: butler213a
+    address: butler213a-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Butler
+  - name: butler213b
+    address: butler213b-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Butler
+  - name: butler213c
+    address: butler213c-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Butler
+  - name: butler300a
+    address: butler300a-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Butler
+  - name: butler300b
+    address: butler300b-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Butler
+  - name: butler403a
+    address: butler403a-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Butler
+  - name: butler403b
+    address: butler403b-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Butler
+  - name: carman103a
+    address: carman103a-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Residence Halls
+  - name: carman103b
+    address: carman103b-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Residence Halls
+  - name: claremontb01a
+    address: claremontb01a-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Residence Halls
+  - name: ec10a
+    address: ec10a-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050 Series
+    place: Residence Halls
+  - name: ec18a
+    address: ec18a-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050 Series
+    place: Residence Halls
+  - name: furnald102a
+    address: furnald102a-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Residence Halls
+  - name: hartley112a
+    address: hartley112a-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Residence Halls
+  - name: hartley112b
+    address: hartley112b-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Residence Halls
+  - name: iab323a
+    address: iab323a-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: International Affairs
+  - name: iab323b
+    address: iab323b-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: International Affairs
+  - name: lerner200a
+    address: lerner200a-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Lerner
+  - name: lerner200b
+    address: lerner200b-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Lerner
+  - name: lerner300a
+    address: lerner300a-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Lerner
+  - name: lerner300b
+    address: lerner300b-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Lerner
+  - name: lewisohn300a
+    address: lewisohn300a-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Lewisohn
+  - name: lewisohn300b
+    address: lewisohn300b-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Lewisohn
+  - name: math407a
+    address: math407a-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Math
+  - name: mcbain100a
+    address: mcbain100a-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Residence Halls
+  - name: mudd251a
+    address: mudd251a-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Mudd
+  - name: mudd251b
+    address: mudd251b-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Mudd
+  - name: mudd251c
+    address: mudd251c-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Mudd
+  - name: mudd422a
+    address: mudd422a-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Mudd
+  - name: riverb01a
+    address: riverb01a-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Residence Halls
+  - name: schapiro108a
+    address: schapiro108a-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Residence Halls
+  - name: schermerhorn558a
+    address: schermerhorn558a-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Schermerhorn
+  - name: wien211a
+    address: wien211a-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Residence Halls
+  - name: wien211b
+    address: wien211b-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Residence Halls
+  - name: brooks100a
+    address: brooks100a-ninja.barnard.edu
+    driver: HP LaserJet 9050
+    place: Barnard
+  - name: brooks100b
+    address: brooks100b-ninja.barnard.edu
+    driver: HP LaserJet 9050
+    place: Barnard
+
+  - name: lcc100a
+    address: lcc100a-ninja.barnard.edu
+    driver: HP LaserJet 9050
+    place: Barnard
+
+  - name: lcc100b
+    address: lcc100b-ninja.barnard.edu
+    driver: HP LaserJet 9050
+    place: Barnard
+
+  - name: plimpton100a
+    address: plimpton100a-ninja.barnard.edu
+    driver: HP LaserJet 9050
+    place: Barnard
+
+  - name: plimpton100b
+    address: plimpton100b-ninja.barnard.edu
+    driver: HP LaserJet 9050
+    place: Barnard
+
+  - name: sixsixteen100a
+    address: sixsixteen100a-ninja.barnard.edu
+    driver: HP LaserJet 9050
+    place: Barnard
+
+  - name: sixsixteen100b
+    address: sixsixteen100b-ninja.barnard.edu
+    driver: HP LaserJet 9050
+    place: Barnard
+
+  - name: sulzberger100a
+    address: sulzberger100a-ninja.barnard.edu
+    driver: HP LaserJet 9050
+    place: Barnard
+
+#Other
+
+  - name: avery200a
+    address: avery200a-ninja.atg.columbia.edu
+    driver: HP LaserJet 4350
+    place: Avery
+
+  - name: burke300a
+    address: burke300a-ninja.atg.columbia.edu
+    driver: HP LaserJet 4350
+    place: Burke
+
+  - name: butler301a
+    address: butler301a-ninja.atg.columbia.edu
+    driver: HP LaserJet 4350
+    place: Butler
+
+  - name: butler305a
+    address: butler305a-ninja.atg.columbia.edu
+    driver: HP LaserJet 4350
+    place: Butler
+
+  - name: butler401a
+    address: butler401a-ninja.atg.columbia.edu
+    driver: HP LaserJet 4350
+    place: Butler
+
+  - name: butler501a
+    address: butler501a-ninja.atg.columbia.edu
+    driver: HP LaserJet 4350
+    place: Butler
+
+  - name: butler600a
+    address: butler600a-ninja.atg.columbia.edu
+    driver: HP LaserJet 4350
+    place: Butler
+
+  - name: butler606a
+    address: butler606a-ninja.atg.columbia.edu
+    driver: HP LaserJet 4350
+    place: Butler
+
+  - name: iab310a
+    address: iab310a-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: International Affairs
+
+  - name: iab329a
+    address: iab329a-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: International Affairs
+
+  - name: kent300a
+    address: kent300a-ninja.atg.columbia.edu
+    driver: HP LaserJet 4350
+    place: Kent
+
+  - name: kent300b
+    address: kent300b-ninja.atg.columbia.edu
+    driver: HP LaserJet 4350
+    place: Kent
+
+  - name: math303a
+    address: math303a-ninja.atg.columbia.edu
+    driver: HP LaserJet 4350
+    place: Math
+
+  - name: schermerhorn601a
+    address: schermerhorn601a-ninja.atg.columbia.edu
+    driver: HP LaserJet 4350
+    place: Schermerhorn
+
+  - name: uris130a
+    address: uris130a-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Uris
+
+  - name: uris130b
+    address: uris130b-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Uris
+
+  - name: uris130c
+    address: uris130c-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Uris
+
+  - name: uris130d
+    address: uris130d-ninja.atg.columbia.edu
+    driver: HP LaserJet 9050
+    place: Uris
