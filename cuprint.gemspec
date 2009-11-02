@@ -5,15 +5,15 @@
 
 Gem::Specification.new do |s|
   s.name = %q{cuprint}
-  s.version = "0.1.0"
+  s.version = "0.1.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Reuben Doetsch"]
-  s.date = %q{2009-10-20}
-  s.default_executable = %q{cuprint1}
+  s.date = %q{2009-11-02}
+  s.default_executable = %q{cuprint}
   s.description = %q{A gem to automate adding Columbia Printers}
   s.email = %q{reuben.doetsch@gmail.com}
-  s.executables = ["cuprint1"]
+  s.executables = ["cuprint"]
   s.extra_rdoc_files = [
     "LICENSE",
      "README.rdoc"
@@ -24,10 +24,10 @@ Gem::Specification.new do |s|
      "README.rdoc",
      "Rakefile",
      "VERSION",
+     "bin/cuprint",
      "cuprint.gemspec",
      "lib/cuprint.rb",
      "lib/printers.yaml",
-     "pkg/cuprint-0.1.0.gem",
      "test/cuprint_test.rb",
      "test/test_helper.rb"
   ]
