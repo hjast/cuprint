@@ -36,7 +36,7 @@ module CuPrint
     when "HP LaserJet 4350" ; "  /Library/Printers/PPDs/Contents/Resources/HP\\ LaserJet\\ 4350.gz"
     end
     puts driver
-    `lpadmin -p #{print["name"]} -L #{print["place"]} -E -v lpd://#{print["address"]}/public -P #{driver} `
+    `lpadmin -p #{print["n  ame"]} -L #{print["place"]} -E -v lpd://#{print["address"]}/public -P #{driver} `
   end
   #{}`lpadmin -p "mudd" -L "Mudd Library" -E -v lpd://mudd251a-ninja.atg.columbia.edu -P /Library/Printers/PPDs/Contents/Resources/HP\ LaserJet\ 9050.gz` 
 
